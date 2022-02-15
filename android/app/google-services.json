@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312696484643",
+    "project_id": "iptv-9d12d",
+    "storage_bucket": "iptv-9d12d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312696484643:android:3e41136dbd68e97f791296",
+        "android_client_info": {
+          "package_name": "com.saidmo.iptvplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312696484643-ae9lkgvti5ubs5alohbal9tib0k68fbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZerfDMbDquf1BV7ElNFO4qNtBWXgrvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312696484643-ae9lkgvti5ubs5alohbal9tib0k68fbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
